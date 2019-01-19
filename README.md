@@ -17,6 +17,6 @@ anyway, usage:
 - download this zip from github, install the chrome extension in develop mode.( it is easy, just google for help.)
 
 - go to target people's page [eg.](https://www.zhihu.com/people/gcxue-qiu-tu/following)，
-> https://www.zhihu.com/people/someone/following
+> https://www.zhihu.com/people/gcxue-qiu-tu/following
 
 - click the button
